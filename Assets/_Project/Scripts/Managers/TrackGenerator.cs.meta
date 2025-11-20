@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 478cb42d72a2a4e4cbae872e1f7f9849
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - trackSegmentPrefab: {fileID: 1198812108917612163, guid: 7f25a58b993428f41bfaa894ed1282a0,
+      type: 3}
+  - playerTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
